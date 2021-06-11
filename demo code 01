@@ -1,0 +1,110 @@
+"""
+just a demo prgrm 1
+if one line cmnt then use #
+if multi line then use (""" """)
+"""
+
+print("hi")
+
+"""
+spaces at the beginning of a code line
+pbthon uses indentation to indicate a block of code
+it has to be at least one.
+"""
+
+if 5> 2:
+    print("Five is greater than two")
+    if 5> 2:
+        print("Its true")
+
+        #Creating Variables
+
+        a = 0
+        b = "hello world"
+        print(a)
+        print(b)
+
+        #Casting
+
+        c = str(a)
+        d = int(a)
+        e = float(4)
+        print(c)
+        print(d)
+        print(e)
+
+        #get the type
+
+        print(type(a))
+        print(type(b))
+        print(type(c))
+        print(type(e))
+        print(type(d))
+
+        #single or double quotes
+         
+        f = 'hi'                   
+        g = "hello"
+        print(f)
+        print(g)
+
+        #Case sensitive 
+
+        h = 4
+        H = "sallb" #A will not overwrite a
+        print(h)
+        print(H)
+
+        #variable names
+
+        mb_var           = "john"
+        age              = 20
+        Age              = 30
+        AGE              = 25
+        mb_var2          = "kuttan"
+        mbVarNAme        = 0      #Camel case: Each word except the first starts with a capital ltter
+        MbVariableName   = "John" #Pascal Case Each word starts with a capital letter
+        mb_variable_name = "John" #Snake Case Each word is separated bb an underscore character
+
+        """
+        illegal
+        2mbvar
+        mb var
+        mb-var
+        """
+
+        #Many values to multiple Variables
+
+        i, j, k = "Orange","Banana","Cherry"
+        print(i)
+        print(j)
+        print(k)
+
+        #One value to multiple variables
+
+        l = L = m ="WElCOME"
+        print(l)
+        print(L)
+        print(m)
+
+        #unpack a collection
+
+        fruits = ["apple","banana"]
+        n, o = fruits
+        print(n)
+        print(o)
+
+        #Output variable
+
+        p = "awesome"
+        print("Python is "+ p)
+        
+        q = "python is "
+        r = q + p
+        print(r)
+        num1 = 5
+        num2 = 11
+        print(num1 + num2)
+        
+        str1 = 'john'     #error
+        print(num1 + str1)
