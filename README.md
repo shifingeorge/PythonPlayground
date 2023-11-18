@@ -81,6 +81,3 @@ with open('file.txt', 'r') as file:
 # Writing to a File
 with open('file.txt', 'w') as file:
     file.write('Hello, Python!')
-
-
-This is a basic structure that you can expand upon by adding more Python concepts, examples, and explanations to create a comprehensive cheatsheet. You can paste this into a Markdown file (e.g., `python_cheatsheet.md`) in your GitHub repository and customize it further according to your preferences or the specific topics you want to cover.
