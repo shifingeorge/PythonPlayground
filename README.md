@@ -2,7 +2,7 @@
 
 This markdown file serves as a guide and quick reference to Python's language syntax, key features, and functionalities. 
 
-## Table of Contents
+### Table of Contents
 
  1. [Introduction to Python](#introduction-to-python)
  2. [Variables and Data Types](#variables-and-data-types)
