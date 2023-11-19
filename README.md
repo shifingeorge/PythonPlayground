@@ -4,16 +4,16 @@ This markdown file serves as a guide and quick reference to Python's language sy
 
 ## Table of Contents
 
-#### 1. [Introduction to Python](#introduction-to-python)
-#### 2. [Variables and Data Types](#variables-and-data-types)
-#### 3. [Control Flow](#control-flow)
-#### 4. [Functions](#functions)
-#### 5. [Classes (Object-oriented programming)](#classes-object-oriented-programming)
-#### 6. [Error Handling](#error-handling)
-#### 7. [File Input/Output](#file-inputoutput)
-#### 8. [Python Libraries](#python-libraries)
-#### 9. [Tips & Tricks](#tips--tricks)
-#### 10. [Resources for Further Learning](#resources-for-further-learning)
+ 1. [Introduction to Python](#introduction-to-python)
+ 2. [Variables and Data Types](#variables-and-data-types)
+ 3. [Control Flow](#control-flow)
+ 4. [Functions](#functions)
+ 5. [Classes (Object-oriented programming)](#classes-object-oriented-programming)
+ 6. [Error Handling](#error-handling)
+ 7. [File Input/Output](#file-inputoutput)
+ 8. [Python Libraries](#python-libraries)
+ 9. [Tips & Tricks](#tips--tricks)
+ 10. [Resources for Further Learning](#resources-for-further-learning)
 
 
 ## Introduction to Python
